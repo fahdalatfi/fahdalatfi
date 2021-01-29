@@ -1,5 +1,7 @@
 Hellolia 👋 <br/>
 
+![Buddah working as a fullstack developer](https://www.alfajer-dc.com/wp-content/uploads/2021/01/Full-Stack-Developer.png)<br/>
+
 cd mylife/dream <br/>
 I'm aiming to be a full stuck developer this was my dream since I was 14 . :fire:<br/>
 
