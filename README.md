@@ -24,9 +24,9 @@ Skills : <br/>
 - Networking :v:<br/>
 - Have idea about cyber security and using linux kali :confused:<br/>
 - I LOVE TERMINAL!!! :heart: :heart: :heart:<br/>
-- Javasctipt will be added soon I promise myself :relaxed:<br/>
+- Javasctipt , jquery will be added soon I promise myself :relaxed:<br/>
 - Good understanding of data structres and algorithms (I'm a CS Student!) :stuck_out_tongue_winking_eye:<br/>
-- Good cooker try my food out :heart_eyes:cat:<br/>
+- Good cooker try my food out :heart_eyes_cat:<br/>
 
 logout :cop:
 
