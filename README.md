@@ -16,7 +16,7 @@ cd mylife/skills :nail_care:<br/>
 As well I used to work with Linux servers since I was 13 :alien: <br/>
 I have good understanding of CSS :dizzy: and HTML :star2: and PHP :sparkles: and now i'm learning the bootstrap framework :smirk: and Javascript is my next victim :rage:<br/>
 
-Skills : <br/>
+Skills: <br/>
 - HTML and CSS (Boostrap) :blush:<br/>
 - PHP :wink:<br/>
 - MYSQL :sunglasses:<br/>
