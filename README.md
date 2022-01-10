@@ -17,17 +17,16 @@ As well I used to work with Linux servers since I was 13 :alien: <br/>
 I have good understanding of CSS :dizzy: and HTML :star2: and PHP :sparkles: and now i'm learning the bootstrap framework :smirk: and Javascript is my next victim :rage:<br/>
 
 Skills: <br/>
-- HTML and CSS (Boostrap) :blush:<br/>
+- HTML and CSS/Bootstrap/SASS :blush:<br/>
 - PHP :wink:<br/>
 - MYSQL :sunglasses:<br/>
 - Linux Servers Adminstration :clap:<br/>
 - Networking :v:<br/>
 - Have idea about cyber security and using linux kali :confused:<br/>
 - I LOVE TERMINAL!!! :heart: :heart: :heart:<br/>
-- Javasctipt , jquery will be added soon I promise myself :relaxed:<br/>
---> I did ! I'm got now deeper into React <3 I promise myself also to learn it soon!<br/>
+- Javasctipt/Vue.js geek :relaxed:<br/>
 - Good understanding of data structres and algorithms (I'm a CS Student!) :stuck_out_tongue_winking_eye:<br/>
-- Good Adobe Photoshop skills ( I think every full stack developer should have this skill to help him getting the work done ;) ) :fire:<br/>
+- Good Adobe Photoshop/XD skills ( I think every full stack developer should have this skill to help him getting the work done ;) ) :fire:<br/>
 - Good cooker try my food out :heart_eyes_cat:<br/>
 
 logout :cop:
